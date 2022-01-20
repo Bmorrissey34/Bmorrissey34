@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I love to hike and backpack!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bmorrissey34)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bmorrissey34&theme=aura&show_icons=true)
