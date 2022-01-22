@@ -6,7 +6,6 @@
 - 💹 Addtional Tools - React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, MySQL2, Sequelize, jquery, Handlebars
 - 💬 Ask me about ... My Cat 🐈 
 - 📫 How to reach me: brendanmorrissey34@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I love to hike and backpack!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bmorrissey34&theme=aura&show_icons=true)
