@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... finishing my coding bootcamp at Georgia Tech!
-- 🌱 I’m currently learning ... React!
+- 🔭 I’m currently working on ... finding a job as a developer!
+- 🌱 I’m currently learning ... AWS & Python
 - 💹 Proficient in ... HTML, CSS, Javascript
 - 💹 Addtional Tools - GraphQL, React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, MySQL2, Sequelize, jquery, Handlebars
 - 💬 Ask me about ... My Cat 🐈 
