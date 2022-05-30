@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... finding a job as a developer!
-- 🌱 I’m currently learning ... Java
+- 🔭 I’m currently working on ... a tech news java api!
+- 🌱 I’m currently learning ... Java & AWS
 - 💹 Proficient in ... HTML, CSS, Javascript
-- 💹 Additional Tools - GraphQL, React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, MySQL2, Sequelize, jquery, Handlebars
+- 💹 Additional Tools - Java, React, Bootstrap, Materialize, Node.js, express.js, SQL, Spring Boot, Handlebars
 - 💬 Ask me about ... My Cat 🐈 
 - 📫 How to reach me: brendanmorrissey34@gmail.com
 - ⚡ Fun fact: ... I love to hike and backpack!
