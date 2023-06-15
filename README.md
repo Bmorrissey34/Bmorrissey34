@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... a tech news java api!
-- 🌱 I’m currently learning ... Java & AWS
+- 🔭 I’m currently working on ... getting my degree
+- 🌱 I’m currently learning ... Java 
 - 💹 Proficient in ... HTML, CSS, Javascript
 - 💹 Additional Tools - Java, React, Bootstrap, Materialize, Node.js, express.js, SQL, Spring Boot, Handlebars
 - 💬 Ask me about ... My Cat 🐈 
